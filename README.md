@@ -1,13 +1,13 @@
-### Hangman
+# Hangman
 ## Índice:
-  # 1. DEFINICION DEL JUEGO
-  # 2. PERSONALIZADO
-  # 3. REGLAS
-  # 4. NO ME VAS A PILAR 😉
-  # 5. PASOS PARA PICAR CÓDIGO
-  # 6. ¿PREGUNTAS?
-  # 7. SE ACEPTAN TIPS Y ADVICES :blush:
-  # 8. ¡A JUGAR Y MUCHA SUERTE! :crossed_fingers:
+  ### 1. DEFINICION DEL JUEGO
+  ### 2. PERSONALIZADO
+  ### 3. REGLAS
+  ### 4. NO ME VAS A PILAR 😉
+  ### 5. PASOS PARA PICAR CÓDIGO
+  ### 6. ¿PREGUNTAS?
+  ### 7. SE ACEPTAN TIPS Y ADVICES :blush:
+  ### 8. ¡A JUGAR Y MUCHA SUERTE! :crossed_fingers:
 
 
 # 1. DEFINICION DEL JUEGO
