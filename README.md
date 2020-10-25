@@ -1,16 +1,16 @@
 # Hangman :skull_and_crossbones:
 ## Índice:
-  #### 1. DEFINICION DEL JUEGO  :face_with_rolling_eyes:
+  #### 1. DEFINICION DEL JUEGO :zzz:
   #### 2. PERSONALIZADO :sunglasses:
   #### 3. REGLAS :astonished:
   #### 4. NO ME VAS A PILAR 😉
   #### 5. PASOS PARA PICAR CÓDIGO :footprints:
-  #### 6. ¿PREGUNTAS? :shocked_face_with_exploding_head:
+  #### 6. ¿PREGUNTAS? :interrobang:
   #### 7. SE ACEPTAN TIPS Y ADVICES :blush:
   #### 8. ¡A JUGAR Y MUCHA SUERTE! :crossed_fingers:
 
 
-#### 1. DEFINICION DEL JUEGO :face_with_rolling_eyes:
+#### 1. DEFINICION DEL JUEGO :zzz:
     El mítico juego del “Ahorcado” es un juego de adivinanzas de lápiz y papel para dos o más jugadores. Un jugador piensa una palabra y el otro trata de adivinarla según la longitud de la palabra que se representa con guiones. 
 
 
@@ -58,7 +58,7 @@
             - Y, una última funcion que vaya contando el numero de fallos y aciertos del jugador para que así pueda volver a la primera función que determinamos y pueda imprimir el dibujo correspondiente si es necesario. 
 
 
-#### 6. ¿PREGUNTAS? :shocked_face_with_exploding_head:
+#### 6. ¿PREGUNTAS? :interrobang:
     Puedes preguntar si tienes alguna duda!! Intentaré resolvértela de la mejor manera posible :) ¡PARA ESO ESTAMOS!
 
 #### 7. SE ACEPTAN TIPS Y ADVICES :blush:
