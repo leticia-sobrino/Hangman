@@ -1,37 +1,37 @@
-# Hangman
+# Hangman :skull_and_crossbones:
 ## Índice:
-  ### 1. DEFINICION DEL JUEGO
-  ### 2. PERSONALIZADO
-  ### 3. REGLAS
-  ### 4. NO ME VAS A PILAR 😉
-  ### 5. PASOS PARA PICAR CÓDIGO
-  ### 6. ¿PREGUNTAS?
-  ### 7. SE ACEPTAN TIPS Y ADVICES :blush:
-  ### 8. ¡A JUGAR Y MUCHA SUERTE! :crossed_fingers:
+  #### 1. DEFINICION DEL JUEGO :face_with_rolling_eyes:
+  #### 2. PERSONALIZADO :sunglasses:
+  #### 3. REGLAS :astonished:
+  #### 4. NO ME VAS A PILAR 😉
+  #### 5. PASOS PARA PICAR CÓDIGO :footprints:
+  #### 6. ¿PREGUNTAS? :shocked_face_with_exploding_head:
+  #### 7. SE ACEPTAN TIPS Y ADVICES :blush:
+  #### 8. ¡A JUGAR Y MUCHA SUERTE! :crossed_fingers:
 
 
-# 1. DEFINICION DEL JUEGO
+#### 1. DEFINICION DEL JUEGO :face_with_rolling_eyes:
     El mítico juego del “Ahorcado” es un juego de adivinanzas de lápiz y papel para dos o más jugadores. Un jugador piensa una palabra y el otro trata de adivinarla según la longitud de la palabra que se representa con guiones. 
 
 
-# 2. PERSONALIZADO
+#### 2. PERSONALIZADO :sunglasses:
     En nuestro caso, ¡vamos a digitalizar este juego! El fin del juego será exactamente el mismo que el juego tradicional pero lo único que va a cambiar es el número de jugadores. Solo va a poder jugar un jugador en cada ronda y, jugará contra el ordenador. ¿Asombroso no?
     El ordenador elegirá una palabra al azar de una lista que le ha sido proporcionada y el jugador, es decir TU, vas a tener que adivinarla! Se te dará el topic de la lista para que te puedas poner en contexto del juego y de el tipo de palabra que vas a tener que adivinar. En este caso nuestro topic será LOS NOMBRES DE NUESTRA CLASE DE IRONHACK!!.
     Para hacerlo un poco más entretenido no solamente hay nombres propios, sino que también te puedes encontrar con apodos, apellidos o mezclas de nombres y apellidos. La gracias también es poder diferenciar a cada persona de la clase y como ya sabéis que en nuestra clase se repite algún que otro nombre, vamos a tener que darle más al coco. 
 
-# 3. REGLAS
+#### 3. REGLAS :astonished:
     Vamos a establecer unas reglas del juego por si las moscas... :
         -	Intentar adivinar la palabra introduciendo una letra (vocal o consonante) cuando el ordenador te lo pida.
         -	Fíjate en los guiones! Te dará alguna pista para adivinarla
         -	Diviértete y entretente un rato con el ordenador!
         -	Y la última y más importante no cabrearse si pierdes!!! Ajjajaa te recuerdo que es un ordenador!! No lo tires por la        ventana que tienes que acabar el Bootcamp 😉
 
-# 4. NO ME VAS A PILAR 😉
+#### 4. NO ME VAS A PILAR 😉
         -	Las letras que introduzcas me da igual que sean minúsculas o mayúsculas
         -	Si le das a “enter” sin haber metido ninguna letra el ordenador te va a volver a pedir que introduzcas una letra
         -	Si metes algún número o algún carácter especial no me la vas a jugar… te van a volver a pedir una letra!
 
-# 5. PASOS PARA PICAR CÓDIGO
+#### 5. PASOS PARA PICAR CÓDIGO :footprints:
         1º Importar las siguientes dos funciones:
             - "import random": Para que el ordenador obtenga una palabra aleatoria de la lista que le he proporcionado y que el usuario va a tener que adivinar.
             - "import os": Es una función que nos permite limpiar la pantalla, es decir cada vez que juegues se te limpiará la pantalla de las partidas anteriores. Para poner un poquito de orden y limpieza! :blush:
@@ -58,13 +58,13 @@
             - Y, una última funcion que vaya contando el numero de fallos y aciertos del jugador para que así pueda volver a la primera función que determinamos y pueda imprimir el dibujo correspondiente si es necesario. 
 
 
-# 6. ¿PREGUNTAS?
+#### 6. ¿PREGUNTAS? :shocked_face_with_exploding_head:
     Puedes preguntar si tienes alguna duda!! Intentaré resolvértela de la mejor manera posible :) ¡PARA ESO ESTAMOS!
 
-# 7. SE ACEPTAN TIPS Y ADVICES :blush:
+#### 7. SE ACEPTAN TIPS Y ADVICES :blush:
     Toda crítica constructiva es bienvenida!!! Estamos aquí para eso! :)
     Me encantará escucharte!!!
 
-# 8. ¡A JUGAR Y MUCHA SUERTE! :crossed_fingers:
+#### 8. ¡A JUGAR Y MUCHA SUERTE! :crossed_fingers:
     ¡Espero que os haya gustado! 
 
