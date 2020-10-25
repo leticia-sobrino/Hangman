@@ -1,6 +1,6 @@
 # Hangman :skull_and_crossbones:
 ## Índice:
-  #### 1. DEFINICION DEL JUEGO :face_with_rolling_eyes:
+  #### 1. DEFINICION DEL JUEGO  :face_with_rolling_eyes:
   #### 2. PERSONALIZADO :sunglasses:
   #### 3. REGLAS :astonished:
   #### 4. NO ME VAS A PILAR 😉
